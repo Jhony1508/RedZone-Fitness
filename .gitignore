@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 config.json
+datos_peso.json
+pesos.csv

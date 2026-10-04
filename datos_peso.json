@@ -1,0 +1,25 @@
+{
+    "objetivo": {
+        "peso": 64.0,
+        "fecha": "2026-12-31"
+    },
+    "pesos": [
+        {
+            "fecha": "2026-09-17",
+            "peso": 68.0
+        },
+        {
+            "fecha": "2026-09-24",
+            "peso": 66.0
+        },
+        {
+            "fecha": "2026-09-24",
+            "peso": 66.0
+        }
+    ],
+    "perfil": {
+        "nombre": "ANDREA ",
+        "edad": 35,
+        "altura": 169.0
+    }
+}
